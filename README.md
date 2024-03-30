@@ -15,5 +15,4 @@
 1) Docker 공식 사이트([링크](https://www.docker.com/get-started/))에 접속해 Docker Desktop 설치하기
 2) Docker 컨테이너 실행하기 : 공식사이트 [링크](https://docs.docker.com/guides/walkthroughs/run-a-container/) 를 참고해 컨테이너를 빌드한 후 실행시켜보세요.
 
-   -- ![Uploading docker.png…]()
-
+<img width="1080" alt="docker" src="https://github.com/dhyun10/docker-ci-cd/assets/70506979/683a5b55-3e05-40f6-adb1-dd3ca8fb4497">
